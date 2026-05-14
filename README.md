@@ -1,9 +1,9 @@
 <div align="center">
 
 <img
-  src="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 33.529 78%22 overflow=%22visible%22><path d=%22M 27.854 70.538 C 30.966 70.538 33.529 67.964 33.529 64.922 L 33.529 12.688 C 33.529 9.646 30.992 7.358 27.854 7.358 L 24.558 7.358 L 24.558 70.538 Z M 8.971 70.538 L 8.971 7.358 L 5.832 7.358 C 2.72 7.358 0 9.646 0 12.688 L 0 64.922 C 0 67.964 2.72 70.538 5.832 70.538 Z M 13.338 0 L 20.348 0 L 20.348 29.562 L 13.338 29.562 Z M 13.495 48.438 L 20.505 48.438 L 20.505 78 L 13.495 78 Z%22 fill=%22%23FF471A%22></path></svg>"
+  src="./assets/command-link-mark.svg"
   alt="Command Link mark"
-  width="38"
+  width="42"
 />
 
 # Nick Crain
@@ -142,7 +142,7 @@ For Command Link, the best way to reach me is through company channels.
 <div align="center">
 
 <img
-  src="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 33.529 78%22 overflow=%22visible%22><path d=%22M 27.854 70.538 C 30.966 70.538 33.529 67.964 33.529 64.922 L 33.529 12.688 C 33.529 9.646 30.992 7.358 27.854 7.358 L 24.558 7.358 L 24.558 70.538 Z M 8.971 70.538 L 8.971 7.358 L 5.832 7.358 C 2.72 7.358 0 9.646 0 12.688 L 0 64.922 C 0 67.964 2.72 70.538 5.832 70.538 Z M 13.338 0 L 20.348 0 L 20.348 29.562 L 13.338 29.562 Z M 13.495 48.438 L 20.505 48.438 L 20.505 78 L 13.495 78 Z%22 fill=%22%23FF471A%22></path></svg>"
+  src="./assets/command-link-mark.svg"
   alt="Command Link mark"
   width="22"
 />
